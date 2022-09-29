@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660009374 source:d:\data_m.eko\1ubp_karawang\data code blocks\1_project caffe desa\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+	<windows.h>
+

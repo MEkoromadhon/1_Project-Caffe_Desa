@@ -1,0 +1,7 @@
+Nama : Muhammad Eko Romadhon
+NIM   : 18416255201005
+Email : mekoromad17@gmail.com
+
+Project Akhir Semester 2 (Kuliah) :
+Project ke-1  = Pemrograman Dasar C / C++ 
+Judul Project = Caffe Desa
